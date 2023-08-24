@@ -1,0 +1,23 @@
+[0.716s] Invoking command in '/home/shriram/Desktop/ros2Project/src/arduinobot_py': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/build/arduinobot_py/prefix_override:/home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/python3.10/site-packages:/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arduinobot_py build --build-base /home/shriram/Desktop/ros2Project/build/arduinobot_py/build install --record /home/shriram/Desktop/ros2Project/build/arduinobot_py/install.log --single-version-externally-managed
+[0.942s] running egg_info
+[0.942s] writing ../../build/arduinobot_py/arduinobot_py.egg-info/PKG-INFO
+[0.942s] writing dependency_links to ../../build/arduinobot_py/arduinobot_py.egg-info/dependency_links.txt
+[0.942s] writing entry points to ../../build/arduinobot_py/arduinobot_py.egg-info/entry_points.txt
+[0.942s] writing requirements to ../../build/arduinobot_py/arduinobot_py.egg-info/requires.txt
+[0.943s] writing top-level names to ../../build/arduinobot_py/arduinobot_py.egg-info/top_level.txt
+[0.944s] reading manifest file '../../build/arduinobot_py/arduinobot_py.egg-info/SOURCES.txt'
+[0.950s] writing manifest file '../../build/arduinobot_py/arduinobot_py.egg-info/SOURCES.txt'
+[0.951s] running build
+[0.951s] running build_py
+[0.951s] running install
+[0.951s] running install_lib
+[0.952s] running install_data
+[0.952s] running install_egg_info
+[0.954s] removing '/home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/python3.10/site-packages/arduinobot_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.954s] Copying ../../build/arduinobot_py/arduinobot_py.egg-info to /home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/python3.10/site-packages/arduinobot_py-0.0.0-py3.10.egg-info
+[0.954s] running install_scripts
+[0.969s] Installing simple_parameter script to /home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/arduinobot_py
+[0.969s] Installing simple_service_client script to /home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/arduinobot_py
+[0.969s] Installing simple_service_server script to /home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/arduinobot_py
+[0.969s] writing list of installed files to '/home/shriram/Desktop/ros2Project/build/arduinobot_py/install.log'
+[0.996s] Invoked command in '/home/shriram/Desktop/ros2Project/src/arduinobot_py' returned '0': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/build/arduinobot_py/prefix_override:/home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/python3.10/site-packages:/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arduinobot_py build --build-base /home/shriram/Desktop/ros2Project/build/arduinobot_py/build install --record /home/shriram/Desktop/ros2Project/build/arduinobot_py/install.log --single-version-externally-managed

@@ -1,0 +1,22 @@
+[0.648s] Invoking command in '/home/shriram/Desktop/ros2Project/src/arduinobot_py': PYTHONPATH=/home/shriram/Desktop/ros2Project/build/arduinobot_py/prefix_override:/home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arduinobot_py build --build-base /home/shriram/Desktop/ros2Project/build/arduinobot_py/build install --record /home/shriram/Desktop/ros2Project/build/arduinobot_py/install.log --single-version-externally-managed
+[0.873s] running egg_info
+[0.873s] writing ../../build/arduinobot_py/arduinobot_py.egg-info/PKG-INFO
+[0.873s] writing dependency_links to ../../build/arduinobot_py/arduinobot_py.egg-info/dependency_links.txt
+[0.874s] writing entry points to ../../build/arduinobot_py/arduinobot_py.egg-info/entry_points.txt
+[0.874s] writing requirements to ../../build/arduinobot_py/arduinobot_py.egg-info/requires.txt
+[0.874s] writing top-level names to ../../build/arduinobot_py/arduinobot_py.egg-info/top_level.txt
+[0.875s] reading manifest file '../../build/arduinobot_py/arduinobot_py.egg-info/SOURCES.txt'
+[0.882s] writing manifest file '../../build/arduinobot_py/arduinobot_py.egg-info/SOURCES.txt'
+[0.882s] running build
+[0.882s] running build_py
+[0.882s] running install
+[0.882s] running install_lib
+[0.883s] running install_data
+[0.883s] copying package.xml -> /home/shriram/Desktop/ros2Project/install/arduinobot_py/share/arduinobot_py
+[0.883s] running install_egg_info
+[0.884s] removing '/home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/python3.10/site-packages/arduinobot_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.885s] Copying ../../build/arduinobot_py/arduinobot_py.egg-info to /home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/python3.10/site-packages/arduinobot_py-0.0.0-py3.10.egg-info
+[0.885s] running install_scripts
+[0.900s] Installing simple_parameter script to /home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/arduinobot_py
+[0.900s] writing list of installed files to '/home/shriram/Desktop/ros2Project/build/arduinobot_py/install.log'
+[0.937s] Invoked command in '/home/shriram/Desktop/ros2Project/src/arduinobot_py' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2Project/build/arduinobot_py/prefix_override:/home/shriram/Desktop/ros2Project/install/arduinobot_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arduinobot_py build --build-base /home/shriram/Desktop/ros2Project/build/arduinobot_py/build install --record /home/shriram/Desktop/ros2Project/build/arduinobot_py/install.log --single-version-externally-managed

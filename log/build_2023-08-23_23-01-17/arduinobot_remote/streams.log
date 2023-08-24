@@ -1,0 +1,64 @@
+[0.283s] Invoking command in '/home/shriram/Desktop/ros2Project/build/arduinobot_remote': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/shriram/Desktop/ros2Project/build/arduinobot_remote -- -j12 -l12
+[0.303s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.429s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[0.453s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.455s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.463s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.475s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.489s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.536s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.537s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[0.559s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.701s] -- Found rclcpp_action: 16.0.5 (/opt/ros/humble/share/rclcpp_action/cmake)
+[0.796s] -- Found rclcpp_components: 16.0.5 (/opt/ros/humble/share/rclcpp_components/cmake)
+[0.843s] -- Found arduinobot_msgs: 0.0.0 (/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/share/arduinobot_msgs/cmake)
+[0.885s] -- Found moveit_ros_planning_interface: 2.5.4 (/opt/ros/humble/share/moveit_ros_planning_interface/cmake)
+[0.898s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[1.545s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[1.553s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[1.582s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[1.699s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.010s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[2.386s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[2.565s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[2.870s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.922s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.922s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/shriram/Desktop/ros2Project/src/arduinobot_remote/include>
+[2.922s] -- Configured cppcheck exclude dirs and/or files: 
+[2.922s] -- Added test 'lint_cmake' to check CMake code style
+[2.922s] -- Added test 'uncrustify' to check C / C++ code style
+[2.922s] -- Configured uncrustify additional arguments: 
+[2.923s] -- Added test 'xmllint' to check XML markup files
+[2.923s] -- Configuring done
+[2.945s] -- Generating done
+[2.947s] -- Build files have been written to: /home/shriram/Desktop/ros2Project/build/arduinobot_remote
+[2.977s] [ 50%] [32mBuilding CXX object CMakeFiles/task_server.dir/src/task_server.cpp.o[0m
+[2.977s] [ 50%] [32mBuilding CXX object CMakeFiles/task_server_node.dir/rclcpp_components/node_main_task_server_node.cpp.o[0m
+[5.497s] [ 75%] [32m[1mLinking CXX executable task_server_node[0m
+[5.613s] [ 75%] Built target task_server_node
+[9.540s] [100%] [32m[1mLinking CXX shared library libtask_server.so[0m
+[9.819s] [100%] Built target task_server
+[9.829s] Invoked command in '/home/shriram/Desktop/ros2Project/build/arduinobot_remote' returned '0': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/shriram/Desktop/ros2Project/build/arduinobot_remote -- -j12 -l12
+[9.848s] Invoking command in '/home/shriram/Desktop/ros2Project/build/arduinobot_remote': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/shriram/Desktop/ros2Project/build/arduinobot_remote
+[9.853s] -- Install configuration: ""
+[9.853s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/lib/arduinobot_remote/task_server_node
+[9.853s] -- Set runtime path of "/home/shriram/Desktop/ros2Project/install/arduinobot_remote/lib/arduinobot_remote/task_server_node" to ""
+[9.853s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/lib/libtask_server.so
+[9.855s] -- Set runtime path of "/home/shriram/Desktop/ros2Project/install/arduinobot_remote/lib/libtask_server.so" to ""
+[9.855s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/ament_index/resource_index/package_run_dependencies/arduinobot_remote
+[9.855s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/ament_index/resource_index/parent_prefix_path/arduinobot_remote
+[9.855s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/environment/ament_prefix_path.sh
+[9.855s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/environment/ament_prefix_path.dsv
+[9.855s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/environment/path.sh
+[9.855s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/environment/path.dsv
+[9.855s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/local_setup.bash
+[9.855s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/local_setup.sh
+[9.855s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/local_setup.zsh
+[9.855s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/local_setup.dsv
+[9.855s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/package.dsv
+[9.855s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/ament_index/resource_index/packages/arduinobot_remote
+[9.855s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/ament_index/resource_index/rclcpp_components/arduinobot_remote
+[9.856s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/cmake/arduinobot_remoteConfig.cmake
+[9.856s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/cmake/arduinobot_remoteConfig-version.cmake
+[9.856s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_remote/share/arduinobot_remote/package.xml
+[9.860s] Invoked command in '/home/shriram/Desktop/ros2Project/build/arduinobot_remote' returned '0': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/shriram/Desktop/ros2Project/build/arduinobot_remote

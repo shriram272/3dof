@@ -1,0 +1,22 @@
+[0.036s] Invoking command in '/home/shriram/Desktop/ros2Project/build/arduinobot_cpp': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/shriram/Desktop/ros2Project/build/arduinobot_cpp -- -j12 -l12
+[0.364s] [100%] Built target simple_moveit_interface
+[0.373s] Invoked command in '/home/shriram/Desktop/ros2Project/build/arduinobot_cpp' returned '0': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/shriram/Desktop/ros2Project/build/arduinobot_cpp -- -j12 -l12
+[0.410s] Invoking command in '/home/shriram/Desktop/ros2Project/build/arduinobot_cpp': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/shriram/Desktop/ros2Project/build/arduinobot_cpp
+[0.422s] -- Install configuration: ""
+[0.422s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/lib/arduinobot_cpp/simple_moveit_interface
+[0.423s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp
+[0.423s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp
+[0.423s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/environment/ament_prefix_path.sh
+[0.423s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/environment/ament_prefix_path.dsv
+[0.423s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/environment/path.sh
+[0.423s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/environment/path.dsv
+[0.424s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/local_setup.bash
+[0.424s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/local_setup.sh
+[0.428s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/local_setup.zsh
+[0.428s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/local_setup.dsv
+[0.429s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/package.dsv
+[0.429s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/ament_index/resource_index/packages/arduinobot_cpp
+[0.429s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/cmake/arduinobot_cppConfig.cmake
+[0.429s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/cmake/arduinobot_cppConfig-version.cmake
+[0.429s] -- Up-to-date: /home/shriram/Desktop/ros2Project/install/arduinobot_cpp/share/arduinobot_cpp/package.xml
+[0.435s] Invoked command in '/home/shriram/Desktop/ros2Project/build/arduinobot_cpp' returned '0': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/shriram/Desktop/ros2Project/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/shriram/Desktop/ros2Project/build/arduinobot_cpp

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+bdac0c9ec2ef7a90a41e6ed408d5e85f CMakeFiles/arduinobot_description_uninstall

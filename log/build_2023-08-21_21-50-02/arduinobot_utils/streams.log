@@ -1,0 +1,20 @@
+[0.017s] Invoking command in '/home/shriram/Desktop/ros2Project/build/arduinobot_utils': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2Project/build/arduinobot_utils -- -j12 -l12
+[0.054s] Invoked command in '/home/shriram/Desktop/ros2Project/build/arduinobot_utils' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2Project/build/arduinobot_utils -- -j12 -l12
+[0.074s] Invoking command in '/home/shriram/Desktop/ros2Project/build/arduinobot_utils': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2Project/build/arduinobot_utils
+[0.085s] -- Install configuration: ""
+[0.086s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/ament_index/resource_index/package_run_dependencies/arduinobot_utils
+[0.086s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/ament_index/resource_index/parent_prefix_path/arduinobot_utils
+[0.086s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/environment/ament_prefix_path.sh
+[0.086s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/environment/ament_prefix_path.dsv
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/environment/path.sh
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/environment/path.dsv
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/local_setup.bash
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/local_setup.sh
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/local_setup.zsh
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/local_setup.dsv
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/package.dsv
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/ament_index/resource_index/packages/arduinobot_utils
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/cmake/arduinobot_utilsConfig.cmake
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/cmake/arduinobot_utilsConfig-version.cmake
+[0.087s] -- Installing: /home/shriram/Desktop/ros2Project/install/arduinobot_utils/share/arduinobot_utils/package.xml
+[0.119s] Invoked command in '/home/shriram/Desktop/ros2Project/build/arduinobot_utils' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2Project/build/arduinobot_utils

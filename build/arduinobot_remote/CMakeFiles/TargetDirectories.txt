@@ -1,0 +1,11 @@
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/uninstall.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/arduinobot_remote_uninstall.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/task_server.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/task_server_node.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/test.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/edit_cache.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/rebuild_cache.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/list_install_components.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/install.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/install/local.dir
+/home/shriram/Desktop/ros2Project/build/arduinobot_remote/CMakeFiles/install/strip.dir

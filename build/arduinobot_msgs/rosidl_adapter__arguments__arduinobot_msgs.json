@@ -1,0 +1,10 @@
+{
+  "package_name": "arduinobot_msgs",
+  "non_idl_tuples": [
+    "/home/shriram/Desktop/ros2Project/src/arduinobot_msgs:srv/AddTwoInts.srv",
+    "/home/shriram/Desktop/ros2Project/src/arduinobot_msgs:srv/EulerToQuarternion.srv",
+    "/home/shriram/Desktop/ros2Project/src/arduinobot_msgs:srv/QuarternionToEuler.srv",
+    "/home/shriram/Desktop/ros2Project/src/arduinobot_msgs:action/Fibonacci.action",
+    "/home/shriram/Desktop/ros2Project/src/arduinobot_msgs:action/ArduinobotTask.action"
+  ]
+}
